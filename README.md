@@ -1,4 +1,4 @@
-# Restaurant Review API
+# Restaurant_review_api_with_nlp_analysis
 
 ## Overview
 
@@ -24,11 +24,11 @@ This Restaurant Review API leverages NLP analysis to provide detailed insights i
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/restaurant-review-api.git
+    git clone https://github.com/konduskarsuyash/Restaurant_review_api_with_nlp_analysis.git
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd restaurant-review-api
+    cdRestaurant_review_api_with_nlp_analysis
     ```
 3. **Create a virtual environment**:
     ```bash
